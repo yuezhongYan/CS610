@@ -1,1 +1,1 @@
-# CS610
+# CS610 Data Structures and Algorithms
